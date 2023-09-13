@@ -1,0 +1,14 @@
+.footer {
+  background: var(----color-primary-medium, rgb(59, 57, 57));
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  height: 94px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-bottom: 5px solid #2a7ae4;
+}
+.footer img {
+  width: 168.45px;
+}

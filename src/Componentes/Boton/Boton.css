@@ -1,0 +1,16 @@
+.boton{
+    padding: 12px 39px;
+    color: white;
+    background: #0b4fe3;
+    border-radius: 12px;
+    font-size: 18px;
+    margin: 5px;
+    border: none;
+}
+.boton:hover{
+    background-color: #7ea2ee;
+}
+.boton:active{
+    background-color: #1c4966;
+    transform: translateY(2px);
+}
